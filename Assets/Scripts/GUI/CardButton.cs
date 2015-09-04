@@ -9,7 +9,8 @@ public class CardButton : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void Update () {
-	
-	}
+	void Update ()
+    {
+
+    }
 }

@@ -11,7 +11,7 @@ public class ItemManager : MonoBehaviour
 
     public Item[] handCard = new Item[6];
 	public int handNum()
-	{
+    {
 		Debug.Log (handCard[5].name);
 		if (handCard [5].id == 0)
 		{
@@ -19,7 +19,7 @@ public class ItemManager : MonoBehaviour
 		}
 		return 6;
 	}
-    //デッキccc
+    //デッキ
     public List<Item> deckCard = new List<Item>();
     //墓地
     public List<Item> trashCard = new List<Item>();

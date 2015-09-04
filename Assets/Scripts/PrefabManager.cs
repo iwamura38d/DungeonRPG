@@ -17,7 +17,7 @@ public class PrefabManager : SingletonMonoBehaviour<PrefabManager>
     public GameObject attackButton;
     public GameObject moveButton;
     public GameObject extraAttackButton;
-	public GameObject wideAttackButton;
+    public GameObject wideAttackButton;
     public GameObject subAttackButton;
     public GameObject cureButton;
 

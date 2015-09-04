@@ -84,9 +84,9 @@ public class Enemy : AbstractCharacter
 		{
 			var position = positions.ElementAt (0);
 			movePosition(position);
-		}
+        }
 
-		//ターン終了
+        //ターン終了
 		process = Process.PreEnd;
 	}
 }

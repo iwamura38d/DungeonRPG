@@ -11,7 +11,7 @@ public class StatusGUI : MonoBehaviour {
 	GameObject lvGUI;
     Text tLvGUI;
 
-	[SerializeField]
+    [SerializeField]
 	GameObject hpGUI;
     Text tHpGUI;
 

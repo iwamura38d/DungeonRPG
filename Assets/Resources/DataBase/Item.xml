@@ -11,7 +11,7 @@
     </item>
     <item id="2">
         <iName><![CDATA[鉄の剣]]></iName>
-        <iText><![CDATA[一般的な剣。だが、剣が落ちている状況は一般的ではない]]></iText>
+      <iText><![CDATA[一般的な剣。だが、剣が落ちている状況は一般的ではない]]></iText>
         <iPower>10</iPower>
         <iChain>0</iChain>
         <iExpendable>0</iExpendable>

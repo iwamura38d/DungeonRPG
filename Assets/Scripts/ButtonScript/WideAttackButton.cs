@@ -16,7 +16,7 @@ public class WideAttackButton : AbstractButton
                 a.getColor(a.onMouseEnterColor);
             }
         }
-	}
+    }
 	
 	public override void OnMouseExit()
 	{
